@@ -12,34 +12,42 @@ To set up the project locally, follow these steps:
    git clone https://github.com/vipateltech/Automated-Audit-Compliance-Risk-Assessment.git
 
 2. Navigate to the project directory:
-  ```bash
-  cd repository_name
+   ```bash
+   cd repository_name
 
 3. Install the required dependencies:
-  ```bash
-  pip install pandas numpy sqlalchemy scikit-learn
+   ```bash
+   pip install pandas numpy sqlalchemy scikit-learn
+
 
 ## Usage
 To use the Automated Audit & Compliance Risk Assessment, follow these steps:
 
 1. Run the ETL pipeline to extract and transform financial data:
-  ```bash
-  python etl_pipeline.py
+   ```bash
+   python etl_pipeline.py
+   
+2. Launch the Power BI Dashboard to visualize the results
 
-2.Launch the Power BI dashboard to visualize the results.
 
-##Features
+
+## Features
+
 ETL Pipeline: Extracts and transforms financial data using SQL, Python (Pandas, NumPy, SQLAlchemy).
 Anomaly Detection: Utilizes Machine Learning (Scikit-Learn, Isolation Forest) to identify high-risk transactions.
 Compliance Tracking: Applies SOX and GDPR rules to flag potential violations.
 Power BI Dashboard: Designed with DAX and advanced data visualizations for an interactive experience.
 
-##Technologies Used
+
+## Technologies Used
+
 Programming Languages: Python, SQL
 Libraries: Pandas, NumPy, SQLAlchemy, Scikit-Learn
 Data Visualization: Power BI
 
-##Contact Information
+
+## Contact Information
+
 For inquiries or collaboration, feel free to reach out:
 
 LinkedIn: https://www.linkedin.com/in/vaibhavkumar-patel-45b60b240/
