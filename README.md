@@ -16,20 +16,19 @@ To set up the project locally, follow these steps:
   cd repository_name
 
 3. Install the required dependencies:
-  Ensure you have Python and the necessary libraries installed:
   ```bash
   pip install pandas numpy sqlalchemy scikit-learn
 
 ## Usage
-To use the Automated Audit & Compliance Risk Assessment Dashboard, follow these steps:
+To use the Automated Audit & Compliance Risk Assessment, follow these steps:
 
 1. Run the ETL pipeline to extract and transform financial data:
   ```bash
   python etl_pipeline.py
+
 2.Launch the Power BI dashboard to visualize the results.
 
 ##Features
-
 ETL Pipeline: Extracts and transforms financial data using SQL, Python (Pandas, NumPy, SQLAlchemy).
 Anomaly Detection: Utilizes Machine Learning (Scikit-Learn, Isolation Forest) to identify high-risk transactions.
 Compliance Tracking: Applies SOX and GDPR rules to flag potential violations.
