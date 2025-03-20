@@ -33,22 +33,22 @@ To use the Automated Audit & Compliance Risk Assessment, follow these steps:
 
 ## Features
 
-ETL Pipeline: Extracts and transforms financial data using SQL, Python (Pandas, NumPy, SQLAlchemy).
-Anomaly Detection: Utilizes Machine Learning (Scikit-Learn, Isolation Forest) to identify high-risk transactions.
-Compliance Tracking: Applies SOX and GDPR rules to flag potential violations.
-Power BI Dashboard: Designed with DAX and advanced data visualizations for an interactive experience.
+ETL Pipeline: Extracts and transforms financial data using SQL, Python (Pandas, NumPy, SQLAlchemy).  
+Anomaly Detection: Utilizes Machine Learning (Scikit-Learn, Isolation Forest) to identify high-risk transactions.  
+Compliance Tracking: Applies SOX and GDPR rules to flag potential violations.  
+Power BI Dashboard: Designed with DAX and advanced data visualizations for an interactive experience.  
 
 
 ## Technologies Used
 
-Programming Languages: Python, SQL
-Libraries: Pandas, NumPy, SQLAlchemy, Scikit-Learn
-Data Visualization: Power BI
+Programming Languages: Python, SQL  
+Libraries: Pandas, NumPy, SQLAlchemy, Scikit-Learn  
+Data Visualization: Power BI  
 
 
 ## Contact Information
 
 For inquiries or collaboration, feel free to reach out:
 
-LinkedIn: https://www.linkedin.com/in/vaibhavkumar-patel-45b60b240/
+LinkedIn: https://www.linkedin.com/in/vaibhavkumar-patel-45b60b240/  
 Email: vipateltech@gmail.com
